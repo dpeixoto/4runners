@@ -2,6 +2,10 @@
 db/
 modules/
 tmp/
+.classpath
+.project
+.settings/
+eclipse/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
